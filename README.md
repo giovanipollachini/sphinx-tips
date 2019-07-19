@@ -5,6 +5,6 @@ Insert description of Sphinx.
 
 # Install Sphinx
 
-'''python
+```python
 pip install -U Sphinx
-'''
+```
