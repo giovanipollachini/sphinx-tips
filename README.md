@@ -1,6 +1,10 @@
 # Description
 
-Insert description of Sphinx.
+ Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license.
+
+It was originally created for the Python documentation, and it has excellent facilities for the documentation of software projects in a range of languages. 
+
+Sphinx uses reStructuredText as its markup language, and many of its strengths come from the power and straightforwardness of reStructuredText and its parsing and translating suite, the Docutils. 
 
 Sphinx documentation: http://www.sphinx-doc.org/en/master/index.html
 
